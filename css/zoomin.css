@@ -1,0 +1,17 @@
+body{
+    margin: 0px 100px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+li{
+    list-style-type: none;
+    background-color: lightblue;
+    margin: 10px 0px;
+}
+.watched{
+    background-color: cyan;
+
+}
